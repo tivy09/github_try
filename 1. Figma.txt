@@ -1,0 +1,25 @@
+1. Figma 
+-> design prototype / ui for website & mobile 
+
+2. Develop using Programming Language 
+-> React Ionic
+-> PHP
+-> HTML
+-> Laravel 
+-> Vue3
+-> Flutter 
+-> Typescript 
+
+3. Wordpress
+
+4. Tools
+-> VS Code
+-> GitHub (for basic)
+
+5. Others 
+-> Play Store and App Store Publishment (Tech)
+-> Docker (for basic) (Tech)
+-> Firebase (for notification only) (Tech)
+-> Apple Pay Integration, Stripe PG Integration (Tech)
+-> Provide UAT documentation & meeting minutes (Documentation)
+-> Improving User Experience (Tech & UI)
